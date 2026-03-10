@@ -1,0 +1,143 @@
+{
+  "Navbar": {
+    "home": "Trang chủ",
+    "programs": "Chương trình",
+    "about": "Về tôi",
+    "blog": "Blog",
+    "contact": "Liên hệ",
+    "workWithMe": "Hợp tác với tôi"
+  },
+  "Hero": {
+    "label": "Làm chủ kỹ năng của bạn",
+    "title": "Nâng tầm sự nghiệp BA & PM của bạn",
+    "description": "Cung cấp kiến thức thực chiến và khung chiến lược cho BA và PM. Chúng tôi cung cấp chiều sâu chiến thuật và khung chiến lược cần thiết để dẫn dắt các cuộc chuyển đổi số có tác động cao.",
+    "getStarted": "Bắt đầu ngay",
+    "viewPrograms": "Xem chương trình",
+    "stats": "{count}+ chuyên gia đã được đào tạo"
+  },
+  "Footer": {
+    "tagline": "Xây dựng thế hệ lãnh đạo BA và PM kiên cường tiếp theo. Sự chuẩn xác, chiến lược và hành động trong từng buổi học.",
+    "newsletter": "Bản tin",
+    "subscribe": "Tham gia ngay"
+  },
+  "Curriculum": {
+    "title": "Chương trình đào tạo chuẩn xác",
+    "description": "Chúng tôi thu hẹp khoảng cách giữa kiến thức lý thuyết và thực thi thực tế thông qua hai trụ cột cốt lõi.",
+    "explore": "Khám phá tất cả các đường dẫn",
+    "baTitle": "Phân tích nghiệp vụ (BA)",
+    "baDesc": "Làm chủ kỹ thuật yêu cầu, quản lý các bên liên quan và tài liệu kỹ thuật với độ chính xác tuyệt đối.",
+    "pmTitle": "Quản trị sản phẩm (PM)",
+    "pmDesc": "Phát triển sự thấu cảm chiến lược, ưu tiên lộ trình và ra quyết định dựa trên dữ liệu để mở rộng sản phẩm."
+  },
+  "CTA": {
+    "title": "Sẵn sàng nâng tầm sự nghiệp của bạn?",
+    "description": "Tham gia cùng hơn 500 chuyên gia đã thay đổi con đường sự nghiệp của họ thông qua chương trình cố vấn chuyên biệt của chúng tôi.",
+    "button": "Bắt đầu ngay bây giờ"
+  },
+  "Programs": {
+    "badge": "MỞ KHÓA TIỀM NĂNG",
+    "title": "Lộ Trình Đào Tạo Thực Chiến",
+    "description": "Học từ chuyên gia có 10+ năm kinh nghiệm. Không chỉ là lý thuyết, chúng tôi dạy bạn cách giải quyết bài toán thực tế của doanh nghiệp.",
+    "fee": "HỌC PHÍ",
+    "empty": "Chưa có chương trình huấn luyện nào được hiển thị.",
+    "corporateTitle": "Đào Tạo Doanh Nghiệp (In-house)",
+    "corporateDesc": "Tối ưu hóa năng lực đội ngũ IT, Product của bạn. Chúng tôi thiết kế lộ trình riêng biệt dựa trên bài toán đặc thù của công ty.",
+    "corporateButton": "LIÊN HỆ TƯ VẤN",
+    "partners": "Đối tác",
+    "students": "Học viên"
+  },
+  "Blog": {
+    "badge": "TRUNG TÂM KIẾN THỨC",
+    "title": "Blog TankMentor",
+    "description": "Cung cấp những am hiểu chiến lược cho BA và PM điều hướng trong bối cảnh công nghệ hiện đại.",
+    "recent": "Bài viết gần đây",
+    "readMore": "ĐỌC TIẾP",
+    "readArticle": "ĐỌC TOÀN BỘ BÀI VIẾT",
+    "empty": "Không có bài viết nào được tìm thấy.",
+    "backHome": "Quay lại trang chủ",
+    "categories": "Tất cả chủ đề",
+    "newsletterTitle": "Nhận phân tích thực chiến trực tiếp vào hộp thư của bạn.",
+    "newsletterDesc": "Tham gia cùng hơn 2,000 chuyên gia đang nhận các bài viết về chiến lược sản phẩm và thực thi hàng tuần.",
+    "subscribe": "Đăng ký"
+  },
+  "About": {
+    "badge": "CÂU CHUYỆN CỦA TÔI",
+    "quote": "\"Tôi không dạy bạn cách dùng Tool, tôi dạy bạn cách Tư duy để trở thành một Chuyên gia có giá trị trong mắt doanh nghiệp.\"",
+    "certified": "Chuyên gia chứng chỉ",
+    "missionTitle": "Tầm nhìn & Sứ mệnh",
+    "vision": "Tôi tin rằng mỗi Business Analyst hay Project Manager đều có tiềm năng trở thành người dẫn dắt thay đổi trong doanh nghiệp nếu có tư duy đúng đắn.",
+    "mission": "Sứ mệnh của tôi là rút ngắn con đường đó cho bạn bằng những trải nghiệm thực tế xương máu.",
+    "transparent": "Minh Bạch",
+    "transparentDesc": "Chia sẻ thật, kinh nghiệm thật không màu mè.",
+    "dedicated": "Tận Tâm",
+    "dedicatedDesc": "Theo sát từng học viên đến khi có kết quả.",
+    "ctaTitle": "Bạn đã sẵn sàng nâng cấp năng lực và thu nhập?",
+    "ctaEmphasis": "năng lực và thu nhập?",
+    "ctaButton": "LIÊN HỆ MENTORING NGAY"
+  },
+  "Contact": {
+    "badge": "LIÊN HỆ",
+    "title": "Hãy Cùng Xây Dựng Sự Nghiệp Mơ Ước",
+    "description": "Bạn có câu hỏi về các chương trình hoặc cần tư vấn riêng? Hãy để lại lời nhắn, tôi sẽ phản hồi trong vòng 24 giờ.",
+    "emailMe": "Email",
+    "callMe": "Gọi / Zalo",
+    "name": "Họ và tên",
+    "namePlaceholder": "Tên của bạn",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "interest": "Bạn quan tâm đến",
+    "message": "Lời nhắn",
+    "messagePlaceholder": "Mô tả mục tiêu của bạn...",
+    "submit": "GỬI LỜI NHẮN",
+    "sending": "ĐANG GỬI...",
+    "successTitle": "Đã Nhận Tin Nhắn!",
+    "successDesc": "Cảm ơn bạn đã liên hệ, tôi sẽ phản hồi sớm nhất có thể.",
+    "sendAnother": "GỬI TIN KHÁC",
+    "error": "Rất tiếc! Đã có lỗi xảy ra. Vui lòng thử lại."
+  },
+  "Resources": {
+    "badge": "VŨ KHÍ THỰC CHIẾN",
+    "title": "Tài Nguyên Miễn Phí",
+    "description": "Tổng hợp các bộ template, tài liệu và quy trình chuẩn giúp bạn làm việc hiệu quả và chuyên nghiệp hơn ngay lập tức.",
+    "ctaTitle": "Cần Template Theo Cách Riêng?",
+    "ctaDesc": "Tôi có thể giúp bạn xây dựng quy trình làm việc tối ưu cho Team hoặc dự án cụ thể của bạn.",
+    "ctaButton": "LIÊN HỆ MENTORING",
+    "download": "TẢI XUỐNG NGAY",
+    "items": {
+      "template": "Template",
+      "guide": "Hướng dẫn",
+      "framework": "Khung làm việc"
+    }
+  },
+  "SEO": {
+    "home": {
+      "title": "TankMentor | Chuyên Gia Cố Vấn BA & PM Thực Chiến",
+      "description": "Lộ trình đào tạo Business Analyst và Product Manager thực chiến. Hơn 10 năm kinh nghiệm, hướng dẫn 500+ học viên nâng tầm sự nghiệp IT."
+    },
+    "programs": {
+      "title": "Chương Trình Đào Tạo | TankMentor",
+      "description": "Khám phá các khóa học BA, PM và đào tạo doanh nghiệp (In-house) chuẩn quốc tế, tập trung hoàn toàn vào thực hành."
+    },
+    "blog": {
+      "title": "Blog Kiến Thức | TankMentor",
+      "description": "Chia sẻ kinh nghiệm, case study và kiến thức chuyên sâu về quản trị sản phẩm và phân tích nghiệp vụ."
+    },
+    "about": {
+      "title": "Về TankMentor | Câu Chuyện Của Tôi",
+      "description": "Tìm hiểu về hành trình của Founder TankMentor và sứ mệnh xây dựng thế hệ lãnh đạo công nghệ resilient."
+    },
+    "contact": {
+      "title": "Liên Hệ | TankMentor",
+      "description": "Kết nối với Mentor để được tư vấn lộ trình sự nghiệp hoặc giải pháp đào tạo cho doanh nghiệp của bạn."
+    },
+    "resources": {
+      "title": "Tài Nguyên Miễn Phí | Vũ Khí BA & PM",
+      "description": "Tải xuống PRD Templates, Agile Guides và Stakeholder Maps từ chuyên gia."
+    }
+  },
+  "NotFound": {
+    "title": "404 - Lạc Lối Giữa Các Task?",
+    "description": "Trang bạn đang tìm kiếm dường như đã được Move to Done hoặc bị Delete khỏi Sprint này rồi.",
+    "backHome": "QUAY LẠI DASHBOARD"
+  }
+}

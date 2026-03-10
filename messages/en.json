@@ -1,0 +1,143 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "programs": "Programs",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "workWithMe": "Work With Me"
+  },
+  "Hero": {
+    "label": "Master Your Craft",
+    "title": "Elevate Your BA & PM Career Path",
+    "description": "Specialized mentoring for Business Analysts and Product Managers. We provide the tactical depth and strategic framework needed to lead high-impact digital transformations.",
+    "getStarted": "Get Started",
+    "viewPrograms": "View Programs",
+    "stats": "{count}+ professionals mentored"
+  },
+  "Footer": {
+    "tagline": "Building the next generation of resilient BA and PM leaders. Precision, strategy, and action in every session.",
+    "newsletter": "Newsletter",
+    "subscribe": "Join Now"
+  },
+  "Curriculum": {
+    "title": "Precision-Built Curriculum",
+    "description": "We bridge the gap between theoretical knowledge and real-world execution through two core pillars.",
+    "explore": "Explore all paths",
+    "baTitle": "Business Analysis",
+    "baDesc": "Master requirements engineering, stakeholder management, and technical documentation with radical precision.",
+    "pmTitle": "Product Management",
+    "pmDesc": "Develop strategic empathy, roadmap prioritization, and data-driven decision making for scaling products."
+  },
+  "CTA": {
+    "title": "Ready to Elevate Your Career?",
+    "description": "Join 500+ professionals who have transformed their career path through our specialized mentoring program.",
+    "button": "Get Started Now"
+  },
+  "Programs": {
+    "badge": "UNLOCK POTENTIAL",
+    "title": "Practical Training Roadmap",
+    "description": "Learn from experts with 10+ years of experience. Not just theory, we teach you how to solve real business problems.",
+    "fee": "TUITION FEE",
+    "empty": "No training programs are currently displayed.",
+    "corporateTitle": "Corporate Training (In-house)",
+    "corporateDesc": "Optimize your IT and Product team performance. We design bespoke roadmaps based on your company's specific challenges.",
+    "corporateButton": "CONTACT FOR CONSULTANCY",
+    "partners": "Partners",
+    "students": "Students"
+  },
+  "Blog": {
+    "badge": "KNOWLEDGE HUB",
+    "title": "TankMentor Blog",
+    "description": "Strategic insights for Business Analysts and Product Managers navigating the modern tech landscape.",
+    "recent": "Recent Articles",
+    "readMore": "READ MORE",
+    "readArticle": "READ FULL ARTICLE",
+    "empty": "No articles found.",
+    "backHome": "Back to Home",
+    "categories": "All Topics",
+    "newsletterTitle": "Get tactical insights delivered to your inbox.",
+    "newsletterDesc": "Join 2,000+ professionals receiving weekly mentoring on product strategy and execution.",
+    "subscribe": "Subscribe"
+  },
+  "About": {
+    "badge": "MY STORY",
+    "quote": "\"I don't teach you how to use tools, I teach you how to think to become a valuable expert in the eyes of businesses.\"",
+    "certified": "Certified Expert",
+    "missionTitle": "Vision & Mission",
+    "vision": "I believe that every Business Analyst or Project Manager has the potential to become a change leader in their enterprise if they have the right mindset.",
+    "mission": "My mission is to shorten that path for you through hard-earned real-world experiences.",
+    "transparent": "Transparent",
+    "transparentDesc": "Real sharing, real experience, no fluff.",
+    "dedicated": "Dedicated",
+    "dedicatedDesc": "Following each student closely until results are achieved.",
+    "ctaTitle": "Are you ready to upgrade your skills and income?",
+    "ctaEmphasis": "skills and income?",
+    "ctaButton": "CONTACT FOR MENTORING NOW"
+  },
+  "Contact": {
+    "badge": "GET IN TOUCH",
+    "title": "Let's Build Your Dream Career Together",
+    "description": "Have questions about my programs or need custom consulting? Drop a message, I'll reply within 24 hours.",
+    "emailMe": "Email",
+    "callMe": "Call / Zalo",
+    "name": "Full Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "interest": "Interested In",
+    "message": "Message",
+    "messagePlaceholder": "Tell me a bit about your goal...",
+    "submit": "SEND MESSAGE",
+    "sending": "SENDING...",
+    "successTitle": "Message Received!",
+    "successDesc": "Thanks for reaching out, I'll get back to you soon.",
+    "sendAnother": "SEND ANOTHER",
+    "error": "Oops! Something went wrong. Please try again."
+  },
+  "Resources": {
+    "badge": "TACTICAL WEAPONS",
+    "title": "Free Resources",
+    "description": "Premium collection of templates, documents, and standard processes to help you work more effectively and professionally immediately.",
+    "ctaTitle": "Need a Custom Template?",
+    "ctaDesc": "I can help you build an optimized workflow for your specific team or project.",
+    "ctaButton": "CONTACT FOR MENTORING",
+    "download": "DOWNLOAD NOW",
+    "items": {
+      "template": "Template",
+      "guide": "Guide",
+      "framework": "Framework"
+    }
+  },
+  "SEO": {
+    "home": {
+      "title": "TankMentor | Practical BA & PM Career Mentor",
+      "description": "Premium training for Business Analysts and Product Managers. 10+ years of experience, mentoring 500+ students to elevate their IT careers."
+    },
+    "programs": {
+      "title": "Training Programs | TankMentor",
+      "description": "Explore practical BA, PM, and In-house corporate training programs focused on execution and real-world impact."
+    },
+    "blog": {
+      "title": "Knowledge Hub | TankMentor Blog",
+      "description": "Deep insights, case studies, and advanced knowledge on product management and business analysis."
+    },
+    "about": {
+      "title": "About TankMentor | My Story",
+      "description": "Discover the journey behind TankMentor and our mission to build a generation of resilient technology leaders."
+    },
+    "contact": {
+      "title": "Contact | TankMentor",
+      "description": "Connect with the Mentor for career guidance or tailored training solutions for your organization."
+    },
+    "resources": {
+      "title": "Free Resources | Tactical Weapons",
+      "description": "Download expert PRD Templates, Agile Guides, and Stakeholder Maps for IT professionals."
+    }
+  },
+  "NotFound": {
+    "title": "404 - Lost Between Tasks?",
+    "description": "The page you are looking for seems to have been Moved to Done or Deleted from this Sprint.",
+    "backHome": "GO BACK TO DASHBOARD"
+  }
+}
