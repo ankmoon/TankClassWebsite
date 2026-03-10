@@ -3,15 +3,6 @@
 import { useState } from "react";
 import { Mail, Phone, Send, CheckCircle2 } from "lucide-react";
 import { useTranslations } from "next-intl";
-import { getTranslations } from "next-intl/server";
-
-export async function generateMetadata() {
-    const t = await getTranslations("SEO.contact");
-    return {
-        title: t("title"),
-        description: t("description"),
-    };
-}
 
 export default function ContactPage() {
     const t = useTranslations("Contact");

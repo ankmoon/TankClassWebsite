@@ -2,15 +2,18 @@
 
 import { useLocale } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/routing";
+import { useParams } from "next/navigation";
 
 export default function LanguageSwitcher() {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
+  const params = useParams();
 
   const toggleLanguage = () => {
     const nextLocale = locale === "vi" ? "en" : "vi";
-    router.replace(pathname, { locale: nextLocale });
+    // @ts-expect-error - App-wide language switcher deals with dynamic routes
+    router.replace({ pathname, params }, { locale: nextLocale });
   };
 
   return (
