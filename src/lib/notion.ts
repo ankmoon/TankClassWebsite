@@ -13,6 +13,8 @@ const PROGRAMS_DATABASE_ID = process.env.NOTION_PROGRAMS_ID;
 export async function getPublishedPosts(locale: string = "vi") {
     if (!DATABASE_ID) return [];
 
+    const localeUpper = locale.toUpperCase(); // "VI" | "EN"
+
     const response = await notion.databases.query({
         database_id: DATABASE_ID,
         filter: {
@@ -23,11 +25,18 @@ export async function getPublishedPosts(locale: string = "vi") {
                         equals: "Published",
                     },
                 },
+                // Support Language = exact locale ("VI"/"EN") OR "both"
                 {
-                    property: "Language",
-                    select: {
-                        equals: locale.toUpperCase(),
-                    },
+                    or: [
+                        {
+                            property: "Language",
+                            select: { equals: localeUpper },
+                        },
+                        {
+                            property: "Language",
+                            select: { equals: "both" },
+                        },
+                    ]
                 }
             ]
         },
@@ -109,6 +118,8 @@ export async function getAboutPage(pageId: string) {
 export async function getPostBySlug(slug: string, locale: string = "vi") {
     if (!DATABASE_ID) return null;
 
+    const localeUpper = locale.toUpperCase();
+
     const response = await notion.databases.query({
         database_id: DATABASE_ID,
         filter: {
@@ -119,11 +130,18 @@ export async function getPostBySlug(slug: string, locale: string = "vi") {
                         equals: slug,
                     },
                 },
+                // Support Language = exact locale ("VI"/"EN") OR "both"
                 {
-                    property: "Language",
-                    select: {
-                        equals: locale.toUpperCase(),
-                    },
+                    or: [
+                        {
+                            property: "Language",
+                            select: { equals: localeUpper },
+                        },
+                        {
+                            property: "Language",
+                            select: { equals: "both" },
+                        },
+                    ]
                 }
             ]
         },

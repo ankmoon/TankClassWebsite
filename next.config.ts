@@ -12,6 +12,10 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
+        hostname: '*.notion.so',
+      },
+      {
+        protocol: 'https',
         hostname: 's3.us-west-2.amazonaws.com',
       },
       {
@@ -20,8 +24,30 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
+        hostname: '*.amazonaws.com',
+      },
+      {
+        protocol: 'https',
         hostname: 'images.unsplash.com',
-      }
+      },
+      // Wix og:image cover URLs
+      {
+        protocol: 'https',
+        hostname: 'static.wixstatic.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '*.wixstatic.com',
+      },
+      // Google User Content (Notion covers from Google Drive)
+      {
+        protocol: 'https',
+        hostname: 'lh3.googleusercontent.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '*.googleusercontent.com',
+      },
     ],
   },
 };
